@@ -1,4 +1,4 @@
-x= input("what my name")
+x= input("what my name").capitalize()
 # removes whitespace from str
 x=x.strip()
 # Capitalize the first letter of the first word only
@@ -7,4 +7,4 @@ x=x.capitalize( )
 x=x.title()
 # Another way to display variable output
 print(f"my name is, {x}")
-
+print(round((34.5+62.8)))
